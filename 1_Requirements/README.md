@@ -32,10 +32,9 @@
 |LLR_ID|Description|Status(Implemented/Future)|
 |----|----|----|
 |LLR_1_HLR_1|	customers give admin and password in char type|Implimented|
-|LLR_2_HLR_1|	Show menu page|Implimented|
-|LLR_3_HLR_1| enter dish name and cost|Implimented|
-|LLR_1_HLR_2|	Enter choice for question in int type|Implimented|
-|LLR_2_HLR_2| If choice other than 1,2,3,4, show 'give proper response',and read input again|Implimented|
-|LLR_3_HLR_2|	If choice correct go to next question.|Implimented|
-|LLR_4_HLR_2|	If choice wrong exit from quiz|Implimented|
-|LLR_1_HLR_3| Show how much won by participant|Implimented|
+|LLR_2_HLR_1|	Show otions page|Implimented|
+|LLR_1_HLR_2| enter choice add dish name and price to menu|Implimented|
+|LLR_1_HLR_3|	Enter choice and view food menu with id and dish name,price of the dish|Implimented|
+|LLR_2_HLR_4| enter choice If want order register new order for a table |Implimented|
+|LLR_1_HLR_5|	enter choice and view all pending orders and exit |Implimented|
+
