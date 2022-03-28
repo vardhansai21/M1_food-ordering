@@ -10,9 +10,9 @@
 
 # what,why,where,who,how #
 ### what ###
-* implementation of online application food ordering *
+* implementation of online application food ordering 
 ### where ###
-* it is an online application *
+* it is an online application 
 ### who ###
 * vardhansai21(k sai vardhan) implemented a problem statement
 ### how ###
