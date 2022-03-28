@@ -1,5 +1,5 @@
 # Requirements for food ordering mini project #
-### Identifying features ###
+## Identifying features ##
 * Customers can login by entering username and password 
 * Show the overall process for customers 
 * Can add food items to the food menu 
@@ -7,6 +7,16 @@
 * Register a order 
 * viewing and finishing all pending orders 
 * exit 
+
+# what,why,where,who,how #
+### what ###
+* implementation of online application food ordering *
+### where ###
+* it is an online application *
+### who ###
+* vardhansai21(k sai vardhan) implemented a problem statement
+### how ###
+* this application is implemented using c programming language 
 
 # Detailed requirements #
 ### High level requirements ###
@@ -21,7 +31,7 @@
 ### Low level requirements ###
 |LLR_ID|Description|Status(Implemented/Future)|
 |----|----|----|
-|LLR_1_HLR_1|	customers give name in char type|Implimented|
+|LLR_1_HLR_1|	customers give admin and password in char type|Implimented|
 |LLR_2_HLR_1|	Show menu page|Implimented|
 |LLR_3_HLR_1| enter dish name and cost|Implimented|
 |LLR_1_HLR_2|	Enter choice for question in int type|Implimented|
