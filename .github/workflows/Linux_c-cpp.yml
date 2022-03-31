@@ -13,7 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - name: build
+    - name: configure
       run: gcc FoodOrdering.c -o FoodOrdering.exe
     - name: run
       run: ./FoodOrdering.exe
