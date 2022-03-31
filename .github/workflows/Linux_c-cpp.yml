@@ -14,7 +14,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: build
-      run: gcc hello.c -o hello.exe
+      run: gcc foodordering.c -o foodordering.exe
     - name: run
-      run: ./hello.exe
+      run: ./foodordering.exe
 
