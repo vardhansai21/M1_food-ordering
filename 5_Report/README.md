@@ -1,4 +1,5 @@
 # Requirements for food ordering mini project # 
+
 # Identifying features #
 Customers can login by entering username and password
 Show the overall process for customers
@@ -7,18 +8,21 @@ View food menu with prices and item codes
 Register a order
 viewing and finishing all pending orders
 exit
-Analysis strength
-Strength
-customers can order food in a simple way
-its fast way for ordering food
-weakness
-less scope to improve features
-opportunities
-Potential to to diversity into related market segments
-can reach to more locations
-Threats
+
+# Analysis strength #
+
+### Strength ###
+* customers can order food in a simple way
+* its fast way for ordering food
+### weakness ###
+* less scope to improve features
+### opportunities ###
+* Potential to to diversity into related market segments
+* can reach to more locations
+### Threats ###
 Managing Customer Expectations
 Shifting Customer Preferences
+
 ## what,why,where,who,how ##
 ### what ###
 * implementation of online application food ordering
