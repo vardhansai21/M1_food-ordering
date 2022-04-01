@@ -13,5 +13,5 @@
     * make all
 * Next step is to run the project with help of make command :
     * make exec
-*Clean all executable files by the following command :
+* Clean all executable files by the following command :
     * make clean
