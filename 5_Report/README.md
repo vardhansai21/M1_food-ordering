@@ -50,3 +50,5 @@ Shifting Customer Preferences
 |LLR_1_HLR_3|Enter choice and view food menu with id and dish name,price of the dish|Implimented
 |LLR_2_HLR_4|enter choice If want order register new order for a table|Implimented
 |LLR_1_HLR_5|enter choice and view all pending orders and exit|Implimented
+
+
