@@ -76,6 +76,7 @@ Shifting Customer Preferences
 |HLR_3|After choosing option can continue	show all the inputs given by user|if user want to exit choosing option	if user want to exit choosing option	requirement
 ## Low level test plan ##
 |HLR_ID|Description|Expected i/p|Expected o/p|Actual o/p|Test type|
+|---|---|---|---|---|---|
 |LLR_1_HLR_1|user can give admin in char type|-|-|-|-|
 |LLR_2_HLR_1|asking admin password|admin|if correct user going to enter password|if correct user going to enter password|requirement|
 |LLR_3_HLR_1|Show all the options in page|-|-|-|-|
