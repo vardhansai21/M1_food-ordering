@@ -8,7 +8,7 @@
 # Steps To run Project #
 
 * First clone the repository from the Github.
-* Open the repository in an IDE (Suggesting Visual Studio Code).
+* Open the repository in an IDE (Suggesting Dev C++).
 * The next step is to build the project with the help of make command :
     * make all
 * Next step is to run the project with help of make command :
