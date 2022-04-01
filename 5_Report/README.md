@@ -44,11 +44,26 @@ Shifting Customer Preferences
 ## Low level requirements ##
 |LLR_ID|Description|Status(Implemented/Future)|
 |---|---|---|
-|LLR_1_HLR_1|customers give admin and password in char type|Implimented
-|LLR_2_HLR_1|Show otions page|Implimented
-|LLR_1_HLR_2|enter choice add dish name and price to menu|Implimented
-|LLR_1_HLR_3|Enter choice and view food menu with id and dish name,price of the dish|Implimented
-|LLR_2_HLR_4|enter choice If want order register new order for a table|Implimented
-|LLR_1_HLR_5|enter choice and view all pending orders and exit|Implimented
+|LLR_1_HLR_1|customers give admin and password in char type|Implimented|
+|LLR_2_HLR_1|Show otions page|Implimented|
+|LLR_1_HLR_2|enter choice add dish name and price to menu|Implimented|
+|LLR_1_HLR_3|Enter choice and view food menu with id and dish name,price of the dish|Implimented|
+|LLR_2_HLR_4|enter choice If want order register new order for a table|Implimented|
+|LLR_1_HLR_5|enter choice and view all pending orders and exit|Implimented|
+
+# Manual #
+## Setup to run Project ##
+* An integrated development environment (Suggesting Dev C++).
+* GCC compiler to compile the project.
+* "make" to run the Makefile smoothly.
+## Steps To run Project ##
+* First clone the repository from the Github.
+* Open the repository in an IDE (Suggesting Dev C++).
+* The next step is to build the project with the help of make command :
+   * make all
+* Next step is to run the project with help of make command :
+   * make exec
+* Clean all executable files by the following command :
+   * make clean
 
 
